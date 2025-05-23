@@ -1,80 +1,46 @@
-# Mindful YouTube Experience
+# 🎨 Hackmania Design Arena
 
-A mindful YouTube viewing experience that helps users maintain healthy watching habits while staying engaged.
+Welcome to the Hackmania Design Arena! This project was built as part of the Hackmania event to showcase creative front-end skills, UI/UX practices, and interactive web design.
 
-## Features
+## 🚀 Features
+- 🎨 Custom, responsive UI
+- 💡 Intuitive layout and user flow
+- 🔄 Interactive components
+- ⚙️ Fully responsive design (Mobile + Desktop)
+- 🌈 Clean, minimalist aesthetic
 
-- Smart Session Tracking
-  - Color-changing progress bar
-  - Video counter with heart icon
-  - Time-of-day awareness
-  - Detailed session stats
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
+- [Any Libraries like Tailwind/Bootstrap if used]
 
-- Mindful Recommendations
-  - Dynamic titles based on watch time
-  - Break cards after 20 minutes
-  - Mindful playlists for different durations
 
-- Break System
-  - Automatic break prompts
-  - Breathing exercises
-  - Time-aware suggestions
-  - Non-intrusive UI
-
-## Tech Stack
-
-- React 18
-- TypeScript
-- Vite
-- Tailwind CSS
-- React Router
-- Lucide Icons
-
-## Getting Started
-
-1. Clone the repository:
+## 📂 Folder Structure
 ```bash
-git clone [your-repo-url]
-```
+Hackmania-Design-Arena/
+│
+├── index.html
+├── style.css
+├── script.js
+├── assets/
+│   ├── images/
+│   └── screenshots/
+└── README.md
 
-2. Install dependencies:
-```bash
-npm install
-```
 
-3. Start the development server:
-```bash
-npm run dev
-```
+📦 Installation & Usage
+bash
+Copy
+Edit
+git clone https://github.com/being-iota/Hackmania-Design-Arena.git
+cd Hackmania-Design-Arena
+# Open index.html in your browser
 
-4. Build for production:
-```bash
-npm run build
-```
 
-## Environment Variables
+🧠 Learnings
+Practiced clean UI principles
 
-Create a `.env` file in the root directory:
+Improved responsive design skills
 
-```env
-VITE_API_URL=your_api_url_here
-```
-
-## Deployment
-
-The project can be deployed to any static hosting service like:
-- Vercel
-- Netlify
-- GitHub Pages
-
-## Contributing
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
+Learned better code structure and naming conventions
